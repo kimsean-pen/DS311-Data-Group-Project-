@@ -12,7 +12,7 @@ Examine and interpret compensation data to gain understanding of the variations 
 
 Identify pay differences between data focused roles in various states and compare them with pay differences in non-data roles to assess the influence of geographical location on salary variations for both data and non-data professionals to highlight regional compensation patterns across different industries.
 
-Concentrating on salary compensation, we will examine the disparities between the salaries offered for data related position and the anticipated prevailing wages in the industry, with the aim to identify the toles that exhibit the most significant deviations from the expected remuneration
+Concentrating on salary compensation, we will examine the disparities between the salaries offered for data related position and the anticipated prevailing wages in the industry, with the aim to identify the roles that exhibit the most significant deviations from the expected remuneration
 
 Programming Language:
 Python, SQL, Tableau 
