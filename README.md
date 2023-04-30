@@ -5,9 +5,9 @@ Kim's Branch
 
 Objective: Finding which state have the highest paying data related salaries 
 
-Methods: Python (pandas) Tableau (data visulization)
+Methods: Python (pandas) Tableau (data visualization)
 
-Description: 
+Description 
 Utilizing Python, we will clean the data and initiate a comprehensive analysis 
 to identify the states with the highest salary in both data related and non-data
 related roles. Upon determining the stats with the highest salary in each 
