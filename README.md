@@ -1,7 +1,6 @@
 # DS311-Data-Group-Project-
 DS-311 Group Project - Salary Analytics 
 
-<<<<<<< HEAD
 Kim's Branch 
 
 Objective: Finding which state have the highest paying data related salaries 
@@ -15,6 +14,11 @@ related roles. Upon determining the stats with the highest salary in each
 category, a comparative assessment will be conducted to discern the discrepancies 
 between data driven and non-data driven position. This analysis will facilitate 
 a deeper understand of salary landscaper across various industries and region. 
+
+Each member of the team is assigned tasks to investigate and uncover insights within the objective outline. 
+Upon completion of the analysis, each team member is expected to create a presentation slide(s) that includes 
+findings derived from the data. The slides should provide information that addresses the objective investigation and 
+incorporates data visualization to effectively communicate the insights gathered. 
 
 After completing our analysis, we will design visual charts to effectively 
 represent the data using Tableau. These graphical illustration will enable 
@@ -31,11 +35,9 @@ Non-Data Related Jobs
 * Teacher 
 * Management Consultant 
 * Attorney 
-=======
+
 Project completed by: Fatima Hararah, Kimsean Pen, Tuan Pham, Steve Stilson 
 
-Project Description:
-Each member of the team is assigned tasks to investigate and uncover insights within the objective outline. Upon completion of the analysis, each team member is expected to create a presentation slide(s) that includes findings derived from the data. The slides should provide information that addresses the objective investigation and incorporates data visualization to effectively communicate the insights gathered. 
 
 Objective:
 
@@ -46,7 +48,4 @@ Identify pay differences between data focused roles in various states and compar
 Concentrating on salary compensation, we will examine the disparities between the salaries offered for data related position and the anticipated prevailing wages in the industry, with the aim to identify the roles that exhibit the most significant deviations from the expected remuneration
 
 Programming Language:
-Python, SQL, Tableau 
-
-
->>>>>>> 53cf4097fd026cffa21d1bccbe454b31f8b300ab
+Python, SQL, R
