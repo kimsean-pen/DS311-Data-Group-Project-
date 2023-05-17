@@ -11,7 +11,8 @@ Concentrating on salary compensation, we will examine the disparities between th
 
 Conducted a comprehensive study comparing paid wages based on careers that require doctoral degree versus non-doctorate degree to anlayze salary discrepensy between paid waged and prevailing wages.  
 
-Description 
+Description:
+
 Utilizing Python, we will clean the data and initiate a comprehensive analysis 
 to identify the states with the highest salary in both data related and non-data
 related roles. Upon determining the stats with the highest salary in each 
