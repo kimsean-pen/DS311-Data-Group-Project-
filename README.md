@@ -24,10 +24,6 @@ Upon completion of the analysis, each team member is expected to create a presen
 findings derived from the data. The slides should provide information that addresses the objective investigation and 
 incorporates data visualization to effectively communicate the insights gathered. 
 
-After completing our analysis, we will design visual charts to effectively 
-represent the data using Tableau. These graphical illustration will enable 
-viewers to comprehended the key findings and facilitate informed decision making.
-
 Data Related Job 
 * Data Analyst 
 * Business Analyst 
