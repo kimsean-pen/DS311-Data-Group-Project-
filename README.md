@@ -1,11 +1,15 @@
 # DS311-Data-Group-Project-
 DS-311 Group Project - Salary Analytics 
 
-Kim's Branch 
+Objective:
 
-Objective: Finding which state have the highest paying data related salaries 
+Examine and interpret compensation data to gain understanding of the variations in salary within data focused roles, including business analytics, data analytics, and data science. Additionally, we will investigate the differences in salaries between data - driven positions and non-data roles such as teacher, management, attorney and consultant. 
 
-Methods: Python (pandas) Tableau (data visualization)
+Identify pay differences between data focused roles in various states and compare them with pay differences in non-data roles to assess the influence of geographical location on salary variations for both data and non-data professionals to highlight regional compensation patterns across different industries.
+
+Concentrating on salary compensation, we will examine the disparities between the salaries offered for data related position and the anticipated prevailing wages in the industry, with the aim to identify the roles that exhibit the most significant deviations from the expected remuneration.
+
+Conducted a comprehensive study comparing paid wages based on careers that require doctoral degree versus non-doctorate degree to anlayze salary discrepensy between paid waged and prevailing wages.  
 
 Description 
 Utilizing Python, we will clean the data and initiate a comprehensive analysis 
@@ -36,16 +40,7 @@ Non-Data Related Jobs
 * Management Consultant 
 * Attorney 
 
-Project completed by: Fatima Hararah, Kimsean Pen, Tuan Pham, Steve Stilson 
-
-
-Objective:
-
-Examine and interpret compensation data to gain understanding of the variations in salary within data focused roles, including business analytics, data analytics, and data science. Additionally, we will investigate the differences in salaries between data - driven positions and non-data roles such as teacher, management, attorney and consultant. 
-
-Identify pay differences between data focused roles in various states and compare them with pay differences in non-data roles to assess the influence of geographical location on salary variations for both data and non-data professionals to highlight regional compensation patterns across different industries.
-
-Concentrating on salary compensation, we will examine the disparities between the salaries offered for data related position and the anticipated prevailing wages in the industry, with the aim to identify the roles that exhibit the most significant deviations from the expected remuneration
-
 Programming Language:
 Python, SQL, R
+
+Project completed by: Fatima Hararah, Kimsean Pen, Tuan Pham, Steve Stilson 
